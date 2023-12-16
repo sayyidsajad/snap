@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Snap Angular Static Website
+
+Welcome to Snap, a static website built with Angular. This sleek and modern web presence combines Angular's dynamic capabilities with a static structure to offer simplicity and elegance.
+
+## Features
+
+- **Angular Framework:** Utilize the power of Angular for dynamic elements within a static website.
+
+- **Modern Interface:** Enjoy a visually appealing and user-friendly interface designed for a seamless browsing experience.
